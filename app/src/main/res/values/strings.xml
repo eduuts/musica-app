@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musica</string>
+    <string name="Albums">Albums</string>
+    <string name="FolsomPrison">Folsom Prison</string>
+    <string name="BestSongs">Best Songs</string>
+    <string name="BuyAlbum">Buy album</string>
+</resources>
